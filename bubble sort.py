@@ -9,3 +9,5 @@ def bubble(arr):
 
 li=list(map(int,input().split()))
 bubble(li)
+
+# Time complexity is  O(n^2)

@@ -1,5 +1,5 @@
-def selectionSort(array, size):
-    
+def selectionSort(array):
+    size=len(arr)
     for ind in range(size):
         min_index = ind
  
@@ -12,5 +12,5 @@ def selectionSort(array, size):
  
 arr = [-2, 45, 0, 11, -9,88,-97,-202,747]
 size = len(arr)
-selectionSort(arr, size)
+selectionSort(arr)
 print(arr)

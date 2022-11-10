@@ -14,3 +14,5 @@ arr = [-2, 45, 0, 11, -9,88,-97,-202,747]
 size = len(arr)
 selectionSort(arr)
 print(arr)
+
+# Time complexity - O(n^2)

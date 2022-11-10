@@ -31,3 +31,5 @@ def mergeSort(nlist):
 nlist = [14,46,43,27,57,41,45,21,70]
 mergeSort(nlist)
 print(nlist)
+
+# Time complexity - O(n log n)
